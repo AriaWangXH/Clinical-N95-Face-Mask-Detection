@@ -10,7 +10,7 @@ Prediction Example
 
 To try it using your own images:
 - Create a folder called "my_img" from the source directory
-- put the image inside my_img/, and run the following command from the root folder:
+- Put the image inside my_img/, and run the following command from the root folder:
 ```
 python demo.py
 ```
