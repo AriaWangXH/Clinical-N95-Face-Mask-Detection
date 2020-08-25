@@ -1,7 +1,9 @@
 # Face Mask & N95 Mask Detector
 This project implements an SSD network to detect human faces, faces with regular clinical masks, and faces with N95 masks. 
 
-The poster presentation can be accessed at [Poster Session](https://github.com/im-daniel-wang/MaskOn-Clinical-and-N95-Mask-Detector/blob/master/mask_on_poster.pdf)
+The poster presentation can be accessed at [Poster Session](https://github.com/AriaWangXH/clinical-N95-face-mask-detection/blob/master/deliverables/mask_on_poster.pdf)
+
+Feel free to check out our [presentation video](https://www.youtube.com/watch?v=JJTm-KA-wvw&feature=youtu.be)!
 
 Prediction Example
 ![image](mask.png)
